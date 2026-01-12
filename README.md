@@ -47,7 +47,7 @@
 | :--- | :--- | :--- |
 | **Microsoft Certified: Power BI Data Analyst Associate** | Microsoft | [View](https://learn.microsoft.com/en-in/users/sathwikreddynalla-8599/credentials/654ee7817bba95ae?ref=https%3A%2F%2Fwww.linkedin.com%2F)  |
 | **Google Advanced Data Analytics Professional Certificate** | Google | [View](https://www.coursera.org/account/accomplishments/professional-cert/certificate/0DUZHM4X3JIM) |
-| **IBM Data Analyst Professional Certificate** | IBM | [View](https://www.coursera.org/account/accomplishments/professional-cert/certificate/8P4X99NV1SDJ)) |
+| **IBM Data Analyst Professional Certificate** | IBM | [View](https://www.coursera.org/account/accomplishments/professional-cert/certificate/8P4X99NV1SDJ) |
 | **Tata Certified Data Visualisation: Empowering Business** | Tata Group | [View](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_69514c7939ff7eaad9ffe1f2_1767884904977_completion_certificate.pdf) |
  
 ## 📫 Connect with me
