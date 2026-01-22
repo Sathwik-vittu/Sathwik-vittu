@@ -34,7 +34,7 @@
 * **Data Architecture**: Architected complex ETL processes to unify legacy transaction data into a **Hadoop-based** "Single Source of Truth".
 
 ### **Data Analyst** | Elevance Health, Hyderabad, India
-*Sep 2020 – June 2022* 
+*Jan 2020 – June 2022* 
 
 * **Financial Impact**: Uncovered over **$500k in annual medical spend leakage** through claims analysis and identification of billing errors.
 * **Operational Efficiency**: Implemented revised workflows for claim adjudication, increasing first-pass clean claim rates and reducing manual reprocessing costs.
